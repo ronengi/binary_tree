@@ -1,0 +1,6 @@
+1. binary_tree.c (?)	create appropriate function (? in the appropriate place).
+2. binary_tree.h (?)	add this function's protptype (? in the appropriate place).
+3. stack.h		add command code to enum.
+4. process_input.c	add command code and command text to command table.
+5. process_input.c	add instruction to switch-case in function process_input(...).
+6. main.c		add instruction to switch-case in function execute_all().

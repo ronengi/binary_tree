@@ -1,0 +1,4 @@
+static char *shrink_n(char *str, len);
+
+
+
